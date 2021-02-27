@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{88:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"DevOps Interview Questions and Answers - Part I - Basics","permalink":"/blog/2019/06/10/devops-interview-questions-answers"},{"title":"Docker Vs Virtual Machines(VMs)","permalink":"/blog/2019/05/10/docker-vs-VMs"}]}')}}]);
