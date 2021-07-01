@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Divya Bhushan - Senior Technical Writer Blog</title>
+        <link>https://github.com/divyabhushan/my-portfolio/blog</link>
+        <description>Divya Bhushan - Senior Technical Writer Blog</description>
+        <lastBuildDate>Mon, 10 Jun 2019 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[DevOps Interview Questions and Answers - Part I - Basics]]></title>
+            <link>https://github.com/divyabhushan/my-portfolio/my-portfolio/blog/2019/06/10/devops-interview-questions-answers</link>
+            <guid>DevOps Interview Questions and Answers - Part I - Basics</guid>
+            <pubDate>Mon, 10 Jun 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[DevOps is a set of practices that combines software development and IT operations. Here is a list of the top interview questions asked to bag a role in DevOps field.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Docker Vs Virtual Machines(VMs)]]></title>
+            <link>https://github.com/divyabhushan/my-portfolio/my-portfolio/blog/2019/05/10/docker-vs-VMs</link>
+            <guid>Docker Vs Virtual Machines(VMs)</guid>
+            <pubDate>Fri, 10 May 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Virtualization comes in handy with the need of running multiple simulated environments in a single machine without installing and configuring each instance. Virtualization has its used cases in many scenarios such as testing your app in multiple environments/devices.]]></description>
+        </item>
+    </channel>
+</rss>
