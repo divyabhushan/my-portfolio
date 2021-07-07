@@ -1,0 +1,1 @@
+(self.webpackChunkmy_portfolio=self.webpackChunkmy_portfolio||[]).push([[446],{7016:function(r,t,e){"use strict";e.r(t),e.d(t,{default:function(){return c}});var n=e(7294),u=e(4996);function c(r){var t=r.imgURL,e=(0,u.Z)(t);return n.createElement("img",{src:e,alt:"card-img"})}}}]);
