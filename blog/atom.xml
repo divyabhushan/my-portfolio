@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/divyabhushan/my-portfolio/blog</id>
-    <title>Divya Bhushan - Senior Technical Writer Blog</title>
+    <title>Divya Bhushan - Sr.Technical Writer Blog</title>
     <updated>2019-06-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/divyabhushan/my-portfolio/blog"/>
-    <subtitle>Divya Bhushan - Senior Technical Writer Blog</subtitle>
+    <subtitle>Divya Bhushan - Sr.Technical Writer Blog</subtitle>
     <icon>https://github.com/divyabhushan/my-portfolio/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[DevOps Interview Questions and Answers - Part I - Basics]]></title>
